@@ -3,7 +3,7 @@ import streamlit as st
 import altair as alt
 from PIL import Image
 
-image = Image.open('/home/adminuser/your_project_directory/dna-logo.jpg')
+image = Image.open('dnacountapp/dna-logo.jpg')
 
 
 st.image(image, use_column_width =True)
