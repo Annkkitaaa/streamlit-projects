@@ -15,5 +15,6 @@ link: https://app-projects-daebkc5frbags23yz7pjrb.streamlit.app/
 
 # 2. EDA basket ball app
 #### Overview 
+One can easily navigate through player data using the intuitive sidebar, allowing you to filter by team, year, and position. Download the CSV file directly from the app for seamless access to the information you need. Dive deeper into the game with our interactive intercorrelation heat map, providing insights at your fingertips
 
 link: https://app-projects-nivgn2tor6kqgqohccxq4v.streamlit.app/
