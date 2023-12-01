@@ -12,3 +12,8 @@ This DNA Count App is a user-friendly tool for counting and analyzing DNA sequen
 3) Explore the different features and visualizations available.
 
 link: https://app-projects-daebkc5frbags23yz7pjrb.streamlit.app/
+
+# 2. EDA basket ball app
+#### Overview 
+
+link: https://app-projects-nivgn2tor6kqgqohccxq4v.streamlit.app/
